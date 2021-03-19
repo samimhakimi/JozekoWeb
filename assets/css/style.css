@@ -3,6 +3,7 @@
 /* 
 font-family: 'Poppins', sans-serif;
 */
+
 body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -136,7 +137,6 @@ a.logo img {
 }
 
 .stors img {
-  width: 200px !important;
   margin: 0 20px;
 }
 
@@ -293,4 +293,12 @@ button.btn {
     width: auto;
     height: 100px;
   }
+}
+
+.modal-b {
+  width: 100px;
+  height: 100px;
+  background-color: rebeccapurple;
+  align-items: center;
+  align-content: center;
 }
